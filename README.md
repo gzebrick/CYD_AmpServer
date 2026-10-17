@@ -2,6 +2,9 @@ Program to add a webpage to the KPA500 amplifier plus local display of 4 paramet
 The program was written for a CYD (Cheap Yellow Display) ESP32 microcomputer and programmed in C++
 using Visual Studio Code
 
+3D case if you want can be found here:
+https://www.tinkercad.com/things/hLtHflTGTa5-newcydvertcasev1
+
 Requies seperate TLL<>RS232 adapter board for physical DB-9 connector to amplifier's PC RS232 port
 I used one of these from Amazon...
 5PCS MAX3232 RS232 to TTL Converter Module 3.3V-5V for Arduino MCU
